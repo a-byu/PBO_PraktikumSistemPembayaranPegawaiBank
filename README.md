@@ -19,7 +19,7 @@ Proyek Java sederhana ini dibuat untuk memenuhi tugas praktikum Pemrograman Bero
 
 ---
 
-## 💡 Lesson Learned (Pelajaran yang Dipetik)
+## 💡 Lesson Learned
 Melalui pengerjaan proyek ini, beberapa poin penting terkait Pemrograman Berorientasi Objek (PBO) yang berhasil dipelajari meliputi:
 * **Efisiensi Struktur Data dengan Polimorfisme:** Penggunaan `ArrayList` berbasis *superclass* (`PegawaiBank`) terbukti sangat mempermudah pengelolaan banyak objek berbeda jenis ke dalam satu struktur list tunggal tanpa harus membuat *array* terpisah untuk setiap jabatan.
 * **Fleksibilitas *Method Overriding*:** Memahami bagaimana kelas anak (*subclass*) dapat memodifikasi perilaku metode dari kelas induk (`hitungGaji()`) secara spesifik sesuai aturan bisnis masing-masing peran, sekaligus memastikan pemanggilan metode tetap konsisten.
