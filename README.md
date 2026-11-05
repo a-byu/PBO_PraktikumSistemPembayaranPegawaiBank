@@ -24,3 +24,8 @@ Melalui pengerjaan proyek ini, beberapa poin penting terkait Pemrograman Berorie
 * **Efisiensi Struktur Data dengan Polimorfisme:** Penggunaan `ArrayList` berbasis *superclass* (`PegawaiBank`) terbukti sangat mempermudah pengelolaan banyak objek berbeda jenis ke dalam satu struktur list tunggal tanpa harus membuat *array* terpisah untuk setiap jabatan.
 * **Fleksibilitas *Method Overriding*:** Memahami bagaimana kelas anak (*subclass*) dapat memodifikasi perilaku metode dari kelas induk (`hitungGaji()`) secara spesifik sesuai aturan bisnis masing-masing peran, sekaligus memastikan pemanggilan metode tetap konsisten.
 * **Pentingnya Pengecekan Tipe Data (`instanceof`):** Mengetahui cara aman mengenali bentuk instansiasi objek saat program berjalan (*runtime*) guna mengelompokkan data atau melakukan *casting* dengan tepat tanpa risiko *error*.
+
+
+##Output Program
+
+<img width="443" height="777" alt="Screenshot from 2026-11-05 21-06-31" src="https://github.com/user-attachments/assets/fad0f082-a9c9-4c0a-8962-ca58df31b6d1" />
