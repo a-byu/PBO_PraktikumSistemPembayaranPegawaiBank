@@ -25,6 +25,7 @@ Melalui pengerjaan proyek ini, beberapa poin penting terkait Pemrograman Berorie
 * **Fleksibilitas *Method Overriding*:** Memahami bagaimana kelas anak (*subclass*) dapat memodifikasi perilaku metode dari kelas induk (`hitungGaji()`) secara spesifik sesuai aturan bisnis masing-masing peran, sekaligus memastikan pemanggilan metode tetap konsisten.
 * **Pentingnya Pengecekan Tipe Data (`instanceof`):** Mengetahui cara aman mengenali bentuk instansiasi objek saat program berjalan (*runtime*) guna mengelompokkan data atau melakukan *casting* dengan tepat tanpa risiko *error*.
 
+---
 
 ## Output Program
 
